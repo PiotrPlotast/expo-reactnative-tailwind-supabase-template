@@ -2,7 +2,10 @@
 
 ## Introduction
 
-This repository serves as a comprehensive starter project for developing React Native and Expo applications with Supabase as the backend.
+This repository serves as a comprehensive starter project for developing React Native and Expo applications with Supabase as the backend and tailwind for styling. It is my own fork of flemingvincent expo starter.
+
+Original template here:
+https://github.com/flemingvincent/expo-supabase-starter
 
 #### Disclaimer
 
